@@ -1,0 +1,5 @@
+{
+    "name": "Apify pull request toolkit",
+    "description": "The Github action that makes sure that each PR is correctly set up and has a milestone set.",
+    "iconName": "example-icon"
+}
