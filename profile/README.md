@@ -33,8 +33,9 @@
 
 <h2>Repositories 💻</h2>
 <ul>
-    <li><a href="https://github.com/apify/crawlee">Crawlee: </a>A web scraping and browser automation library for Node.js to build reliable crawlers. 🖥️</li>
-    <li><a href="https://github.com/apify/crawlee-python">Crawlee for Python: </a> A web scraping and browser automation library for Python to build reliable crawlers.🐍</li> 
+    <li><a href="https://github.com/apify/crawlee">Crawlee: </a>A web scraping and browser automation library for Node.js to build reliable crawlers.</li>
+    <li><a href="https://github.com/apify/crawlee-python">Crawlee for Python: </a> A web scraping and browser automation library for Python to build reliable crawlers.</li> 
+    <li><a href="https://github.com/apify/apify-cli">Apify CLI: </a> Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.</li> 
     <li><a href="https://github.com/apify/fingerprint-suite">fingerprint-suite: </a> Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</li>
     <li><a href="https://github.com/apify/got-scraping">got-scraping: </a> HTTP client made for scraping based on got.</li>
     <li>👉<a href="https://github.com/orgs/apify/repositories?type=all">Check out our more repositories here.</a>👈</li>
