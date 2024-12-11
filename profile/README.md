@@ -25,7 +25,7 @@
 <h2>Learn About Apify 🧑‍🎓</h2>
 
 <ul>
-    <li>Learn how to extract value from the web with the Apify platform through <a href="https://docs.apify.com/">Apify Docs</a> 📚 </li>
+    <li>Learn how to build Actors on Apify Store and monetize your dev skills through <a href="https://docs.apify.com/">Apify Docs</a> 📚 </li>
     <li>Find tutorials and blogs on Apify and web scraping at the <a href="https://blog.apify.com/">Apify blog</a> 📝</li>
     <li>View our livestreams and video content at the <a href="https://youtube.com/c/Apify">Apify YouTube channel</a> 📺</li>
     <li>Find hundreds of ready-made Actors for your web scraping or automation project. Or create and <a href="https://apify.com/store/">publish your own.</a> 💻</li>
@@ -33,8 +33,7 @@
 
 <h2>Repositories 💻</h2>
 <ul>
-    <li><a href="https://github.com/apify/crawlee">Crawlee: </a>A web scraping and browser automation library for Node.js to build reliable crawlers.</li>
-    <li><a href="https://github.com/apify/crawlee-python">Crawlee for Python: </a> A web scraping and browser automation library for Python to build reliable crawlers.</li> 
+    <li><a href="https://www.crawlee.dev/">Crawlee: </a>A web scraping and browser automation library for <a href="https://github.com/apify/crawlee/">Node.js</a> and <a href="https://github.com/apify/crawlee-python.">Python</a> to build reliable scrapers.</li>
     <li><a href="https://github.com/apify/apify-cli">Apify CLI: </a> Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.</li> 
     <li><a href="https://github.com/apify/fingerprint-suite">fingerprint-suite: </a> Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</li>
     <li><a href="https://github.com/apify/got-scraping">got-scraping: </a> HTTP client made for scraping based on got.</li>
