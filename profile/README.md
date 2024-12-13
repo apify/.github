@@ -25,18 +25,20 @@
 <h2>Learn About Apify 🧑‍🎓</h2>
 
 <ul>
-    <li>Learn how to build Actors on Apify Store and monetize your dev skills through <a href="https://docs.apify.com/">Apify Docs</a> 📚 </li>
-    <li>Find tutorials and blogs on Apify and web scraping at the <a href="https://blog.apify.com/">Apify blog</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://youtube.com/c/Apify">Apify YouTube channel</a> 📺</li>
-    <li>Find hundreds of ready-made Actors for your web scraping or automation project. Or create and <a href="https://apify.com/store/">publish your own.</a> 💻</li>
+    <li>Find hundreds of ready-made Actors for your web scraping or automation project on <a href="https://apify.com/store/">Apify Store.</a></li>    
+    <li>Learn everything about web scraping and automation with our <a href="https://docs.apify.com/academy/">free courses</a> that will turn you into an expert scraping developer.</li>
+    <li>Publish your web scrapers as  <a href="https://https://apify.com/partners/actor-developers/">paid Actors</a> on the Apify platform, attract people who need these solutions, and get regular passive income.</li>
+    <li>View our livestreams and video content at the <a href="https://youtube.com/c/Apify">Apify YouTube channel</a>.</li>
+    <li>Learn more through tutorials and thought leadership content about web scraping on <a href="https://blog.apify.com/">Apify Blog</a> and <a href="https://crawlee.dev/blog/">Crawlee Blog</a>.</li>
 </ul>
 
 <h2>Repositories 💻</h2>
 <ul>
-    <li><a href="https://www.crawlee.dev/">Crawlee: </a>A web scraping and browser automation library for <a href="https://github.com/apify/crawlee/">Node.js</a> and <a href="https://github.com/apify/crawlee-python.">Python</a> to build reliable scrapers.</li>
-    <li><a href="https://github.com/apify/apify-cli">Apify CLI: </a> Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.</li> 
-    <li><a href="https://github.com/apify/fingerprint-suite">fingerprint-suite: </a> Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</li>
-    <li><a href="https://github.com/apify/got-scraping">got-scraping: </a> HTTP client made for scraping based on got.</li>
+    <li><a href="https://www.crawlee.dev/">Crawlee</a>: A web scraping and browser automation library for <a href="https://github.com/apify/crawlee/">Node.js</a> and <a href="https://github.com/apify/crawlee-python.">Python</a> to build reliable scrapers.</li>
+    <li><a href="https://github.com/apify/apify-cli">Apify CLI</a>: Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.</li> 
+    <li><a href="https://github.com/apify/proxy-chain">proxy-chain</a>: Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.</li> 
+    <li><a href="https://github.com/apify/fingerprint-suite">fingerprint-suite</a>: Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</li>
+    <li><a href="https://github.com/apify/got-scraping">got-scraping</a>: HTTP client made for scraping based on got.</li>
     <li>👉<a href="https://github.com/orgs/apify/repositories?type=all">Check out our more repositories here.</a>👈</li>
 </ul>
 
