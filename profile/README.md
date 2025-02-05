@@ -32,16 +32,6 @@
     <li>Learn more through tutorials and thought leadership content about web scraping on <a href="https://blog.apify.com/">Apify Blog</a> and <a href="https://crawlee.dev/blog/">Crawlee Blog</a>.</li>
 </ul>
 
-<h2>Repositories 💻</h2>
-<ul>
-    <li><a href="https://www.crawlee.dev/">Crawlee</a>: A web scraping and browser automation library for <a href="https://github.com/apify/crawlee/">Node.js</a> and <a href="https://github.com/apify/crawlee-python.">Python</a> to build reliable scrapers.</li>
-    <li><a href="https://github.com/apify/apify-cli">Apify CLI</a>: Apify command-line interface helps you create, develop, build and run Apify actors, and manage the Apify cloud platform.</li> 
-    <li><a href="https://github.com/apify/proxy-chain">proxy-chain</a>: Node.js implementation of a proxy server (think Squid) with support for SSL, authentication and upstream proxy chaining.</li> 
-    <li><a href="https://github.com/apify/fingerprint-suite">fingerprint-suite</a>: Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</li>
-    <li><a href="https://github.com/apify/got-scraping">got-scraping</a>: HTTP client made for scraping based on got.</li>
-    <li>👉<a href="https://github.com/orgs/apify/repositories?type=all">Check out our more repositories here.</a>👈</li>
-</ul>
-
 <h2>We are hiring! 🕸️</h2>
 
 Check out the [open positions](https://apify.com/jobs) at Apify and help us make the web more programmable.
