@@ -27,7 +27,7 @@
 <ul>
     <li>Find hundreds of ready-made Actors for your web scraping or automation project on <a href="https://apify.com/store/">Apify Store.</a></li>    
     <li>Learn everything about web scraping and automation with our <a href="https://docs.apify.com/academy/">free courses</a> that will turn you into an expert scraping developer.</li>
-    <li>Publish your web scrapers as  <a href="https://https://apify.com/partners/actor-developers/">paid Actors</a> on the Apify platform, attract people who need these solutions, and get regular passive income.</li>
+    <li>Publish your web scrapers as  <a href="https://apify.com/partners/actor-developers/">paid Actors</a> on the Apify platform, attract people who need these solutions, and get regular passive income.</li>
     <li>View our livestreams and video content at the <a href="https://youtube.com/c/Apify">Apify YouTube channel</a>.</li>
     <li>Learn more through tutorials and thought leadership content about web scraping on <a href="https://blog.apify.com/">Apify Blog</a> and <a href="https://crawlee.dev/blog/">Crawlee Blog</a>.</li>
 </ul>
