@@ -3,7 +3,7 @@
     <a href="https://apify.com" target="_blank"><img src="./images/banner.png" alt="Apify Banner"></a>
     <br />
     <br />
-    <b>Apify is the largest marketplace of tools for AI. Thousands of ready-to-run tools get web data, automate tasks on the web, and give your agents real-time context. We call them Actors.</b>
+    <b>Apify is the largest marketplace of trusted tools for AI. Thousands of ready-to-run tools get web data, automate tasks on the web, and give your agents real-time context. We call them Actors.</b>
 </p>
 
 <h4 align="center">
